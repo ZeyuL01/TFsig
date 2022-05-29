@@ -1,2 +1,2 @@
 # TFsig
-A TF-signal Based Approach to identify Master Regulator
+A TF-signature Based Algorithm to identify Master Regulator
